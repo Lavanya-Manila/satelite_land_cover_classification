@@ -391,3 +391,5 @@ Interested in:
 * Intelligent Systems
 
 If you found this project helpful, consider giving the repository a ⭐ to support future development.
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://your-app-name.streamlit.app)
