@@ -1,5 +1,10 @@
+
+matplotlib
 streamlit
 torch
+torchvision
 transformers
-pillow
-matplotlib
+huggingface_hub
+Pillow
+safetensors
+timm
