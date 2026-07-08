@@ -13,6 +13,12 @@ The model is fine-tuned using transfer learning on a satellite image dataset con
 ## live demo
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://satelitelandcoverclassification-lbce9dauhbgvtmrg24toyn.streamlit.app/)
 
+🚀 Live Demo: https://satelitelandcoverclassification-lbce9dauhbgvtmrg24toyn.streamlit.app
+
+
+🤗 Model: https://huggingface.co/LavanyaManila22/swin-eurosat-classifier
+
+
 # Project Objectives
 
 * Build a high-performance land cover classification model using a Vision Transformer.
