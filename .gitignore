@@ -1,0 +1,30 @@
+# Model weights
+*.pth
+*.pt
+*.ckpt
+*.bin
+*.onnx
+*.safetensors
+*.zip
+
+# Checkpoints
+checkpoints/
+models/
+
+# Dataset
+dataset/
+data/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
