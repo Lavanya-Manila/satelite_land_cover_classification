@@ -392,4 +392,4 @@ Interested in:
 
 If you found this project helpful, consider giving the repository a ⭐ to support future development.
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://your-app-name.streamlit.app)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://satelitelandcoverclassification-lbce9dauhbgvtmrg24toyn.streamlit.app/)
